@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">IMCApp</string>
+    <string name="app_name">IMCApp 2024</string>
     <string name="weight">Weight (kg)</string>
     <string name="height">Height (m)</string>
     <string name="calculate">Calculate BMI</string>
